@@ -9,7 +9,8 @@ const Footer = () => {
 
         <div>
           <img className='mb-5 w-40'src={assets.logo} alt="" />
-          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas dolorum provident distinctio sequi repellendus vitae eum? Obcaecati iure sint architecto unde vel, omnis totam. Fuga distinctio ipsum voluptas necessitatibus quibusdam.</p>
+          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Your trusted partner in healthcare. Book appointments with the best
+          doctors effortlessly and take control of your health.</p>
         </div>
 
 
