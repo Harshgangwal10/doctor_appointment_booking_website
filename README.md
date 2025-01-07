@@ -1,4 +1,4 @@
-Welcome to the DOCU-BOOK! (Doctor Appointment Booking Website) This project offers a responsive and user-friendly platform to book doctor appointments seamlessly.
+Welcome to the Health Care! (Doctor Appointment Booking Website) This project offers a responsive and user-friendly platform to book doctor appointments seamlessly.
 
 🌟 Features
 Responsive Design: Optimized for all devices using React.js and Tailwind CSS.
