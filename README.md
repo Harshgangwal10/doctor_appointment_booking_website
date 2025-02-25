@@ -2,7 +2,7 @@
 
 **🚀 Overview**
 
-The Helath Care system provides users with an intuitive and seamless experience to book appointments with doctors. The frontend is built using React.js and Tailwind CSS, ensuring a modern and responsive UI.
+The Health Care system provides users with an intuitive and seamless experience to book appointments with doctors. The frontend is built using React.js and Tailwind CSS, ensuring a modern and responsive UI.
 
 **🛠️ Tech Stack**
 
